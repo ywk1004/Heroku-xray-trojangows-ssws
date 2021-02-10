@@ -17,7 +17,7 @@
 ### 代理协议：vless+ws+tls 或 vmess+ws+tls
 * 服务器地址：自选ip（如：icook.tw）
 * 端口：443
-* 默认UUID：8f91b6a0-e8ee-11ea-adc1-0242ac120002   (务必创建时自定义UUID码)
+* 默认UUID：30d02178-f27c-4973-8d7c-f45f3bf0f6f4   (务必创建时自定义UUID码)
 * 加密：none
 * 传输协议：ws
 * 伪装类型：none
@@ -42,7 +42,7 @@
 
 * 服务器地址: 应用程序名.herokuapp.com
 * 端口: 443
-* 密码：8f91b6a0-e8ee-11ea-adc1-0242ac120002   (务必创建时自定义UUID码) 
+* 密码：30d02178-f27c-4973-8d7c-f45f3bf0f6f4   (务必创建时自定义UUID码) 
 * 加密：xchacha20-ietf-poly1305
 * 插件选项: tls;host=应用程序名.herokuapp.com;path=/自定义UUID码-ss
 
